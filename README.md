@@ -23,7 +23,7 @@ Installing MacroSim is done as follows:
 ``` bash
 $ export SST_CORE_HOME=/your/sst/core
 $ export PATH=$SST_CORE_HOME/bin:$PATH
-$ git clone https://github.gatech.edu/prachatos/MacroSim.git
+$ git clone https://github.com/prachatos/macrosim.git
 $ git checkout main
 $ export MACROSIM_HOME=/your/macrosim/path
 $ cd /your/macrosim/path
