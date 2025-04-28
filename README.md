@@ -3,7 +3,7 @@
 These SST components comprise of a simulator used to implement and validate the MacroSim methodology. The simulator uses input Workload Description Distributions (WDD) and generates performance projections.
 
 ## Instructions
-Follow the instructions [here](https://sst-simulator.org/SSTPages/SSTBuildAndInstall_11dot0dot0_SeriesDetailedBuildInstructions/) to install SST-core.
+Follow the instructions [here](https://sst-simulator.org/SSTPages/SSTBuildAndInstall_13dot0dot0_SeriesDetailedBuildInstructions/) to install SST-core.
 
 MacroSim has been tested on SST-core 13.0.0.
 
